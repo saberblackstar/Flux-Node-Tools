@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #disable terminal history while inside of app
 set +o history
 
